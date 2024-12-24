@@ -1,6 +1,8 @@
 # Docker Hello World
 
-This repo follows [The Ultimate Docker Course](https://codewithmosh.com/p/the-ultimate-docker-course) by Mosh Hamedani. This repo contains a Dockerfile and JS application which prints `Hello World!` to the console. This README.md gives instructions on how to use Docker to create and use an image for this JS application.
+***This repo follows [The Ultimate Docker Course](https://codewithmosh.com/p/the-ultimate-docker-course) by Mosh Hamedani.***
+
+This repo contains a Dockerfile and JS application which prints `Hello World!` to the console. This README.md gives instructions on how to use Docker to create and use an image to run this JS application.
 
 ## Docker version
 
